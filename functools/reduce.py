@@ -3,6 +3,11 @@
 # Output 24
 
 import functools
+import typing
+from __future__ import annotations
+
+def demo_reduce(function: typing.Callable , input: list[int]) -> int:
+  return functools.reduce(multiply, input)
 
 if __name__ == "__main__":
   
@@ -11,5 +16,5 @@ if __name__ == "__main__":
   # functools.reduce to apply 
   multiply = lambda a,b:a*b
   
-  resp = functools.reduce(multiply, input)
+  resp = demo_reduce(multiply, input)
   assert resp == 24, "functools.reduce did not work as expected"
