@@ -22,16 +22,8 @@ In this repository, you will find solutions to a wide range of coding interview 
 
 Below is a list of the interview problems I have solved. Click on the links to view the solutions:
 
-- Problem 1: Two Sum
-- Problem 2: Reverse Linked List
-- Problem 3: Merge Intervals
-- Problem 4: Longest Substring Without Repeating Characters
-- Problem 5: Valid Parentheses
-- Problem 6: Binary Tree Inorder Traversal
-- Problem 7: Maximum Subarray
-- Problem 8: Product of Array Except Self
-- Problem 9: Search in Rotated Sorted Array
-- Problem 10: Find Minimum in Rotated Sorted Array
+- Problem 1: A list with integers those bitwise AND result is 0
+
 
 (Continue adding more problems as you solve them)
 
