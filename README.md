@@ -39,12 +39,12 @@ Below is a list of the interview problems I have solved. Click on the links to v
 
 1. Clone the repository to your local machine using the following command:
     ```bash
-    git clone https://github.com/your-username/interview-problems.git
+    git clone https://github.com/your-username/interviewmate.git
     ```
 
 2. Navigate to the directory of the problem you want to explore:
     ```bash
-    cd interview-problems/problem-name
+    cd interviewmate/problem-name
     ```
 
 3. Open the solution file to view the code and explanation.
