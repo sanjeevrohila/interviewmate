@@ -1,10 +1,9 @@
 # The functools.reduce function enables you to apply a binary function to the elements of a sequence in a cumulative way.
 # sample Input [1,2,3,4]
 # Output 24
-
+from __future__ import annotations
 import functools
 import typing
-from __future__ import annotations
 
 def demo_reduce(function: typing.Callable , input: list[int]) -> int:
   return functools.reduce(multiply, input)
