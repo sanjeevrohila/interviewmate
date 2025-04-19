@@ -1,7 +1,3 @@
-Sure! Here's a template for your GitHub README file where you can add links to all the interview problems you're solving:
-
----
-
 # Interview Problems Repository
 
 Welcome to my Interview Problems Repository! This repository contains solutions to various coding interview problems that I am solving to prepare for technical interviews. Feel free to explore the solutions and use them for your own practice.
